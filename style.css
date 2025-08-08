@@ -1,0 +1,13 @@
+/* h1=>slector
+color=>property
+red=>value */
+
+h1{
+color:blue; /*=>Declration */
+font-size:60px; /*=>Declration*/
+}
+p{
+color:blueviolet;
+font-size: 18px;
+
+}
