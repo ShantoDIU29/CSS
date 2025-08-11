@@ -1,0 +1,54 @@
+/*
+
+h1->selector
+color->property
+red->value
+. ->class selector
+#id selector
+,->group
+
+*/
+p{
+
+  color: blueviolet;
+  font-size: 18px;
+}
+div{
+ width: 100px;
+ height: 100px;
+background-color: aquamarine;
+margin-bottom: 20px;
+
+
+}
+div p{
+
+  color:red;
+ 
+}
+.text-bk{           
+   width: 400px;
+  color:blue;
+   text-align:center;
+   background-color: bisque;
+   margin: 20px;
+}
+
+.sr{
+
+  background-color: chartreuse;
+}
+.sr p{
+
+ color: white;
+}
+#big-div{
+
+  width: 400px;
+
+}
+*{
+  color: blue;
+  margin-bottom: 20px;
+  padding:0px;
+}
