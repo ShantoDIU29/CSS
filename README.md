@@ -9,6 +9,9 @@ This repository is for learning CSS (Cascading Style Sheets) step by step with d
 | Date       | Topic                   | Status    | Notes                         |
 |------------|-------------------------|-----------|-------------------------------|
 | 2025-08-8 | CSS Basics              | Completed | Selectors, properties, syntax |
+| 2025-08-11 | CSS selector,id,class              | Completed | Selectors,id,class,group |
+| 
+
 | 
 
 ---
