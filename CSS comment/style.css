@@ -1,0 +1,28 @@
+/* 
+CSS Notes:
+# → ID selector
+, → Group selector (selects multiple selectors at once)
+color → Property (e.g., color: red;)
+. → Class selector
+* → Universal selector (selects all elements)
+*/
+
+/* Universal selector */
+* {
+  font-family: Arial, sans-serif;
+}
+
+/* ID selector */
+#title {
+  color: blue;
+}
+
+/* Class selector */
+.info {
+  color: green;
+}
+
+/* Group selector (h1 and p together) */
+h1, p {
+  text-align: center;
+}
