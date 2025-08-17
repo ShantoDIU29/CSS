@@ -3,6 +3,7 @@
 This repository is created to learn **CSS (Cascading Style Sheets)** step by step with **daily practice**.
 
 ---
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/2bc06c6b-eca6-459e-9a3e-9f0d49c47516" />
 
 ## 📅 Daily Learning Log
 
