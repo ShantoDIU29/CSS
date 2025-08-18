@@ -1,0 +1,13 @@
+h1{
+  /* border-style:groove; */
+  border-style: outset;
+  border-width: 10px;
+  border-color: aquamarine;
+  border:10px solid red;
+  border-radius: 20px;
+  border-top: 5px solid greenyellow;
+  border-right: solid gold;
+  border-left-style: dotted;
+  border-right-style:dashed;
+  border-bottom-style:groove;
+}
